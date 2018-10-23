@@ -14,3 +14,7 @@
 *.nupkg
 # The packages folder can be ignored because of Package Restore
 **/packages/*
+
+# Build folders should be ignored
+**/bin/*
+**/obj/*
